@@ -1,0 +1,44 @@
+[
+  {
+      "id": 7,
+      "name": "Complete Machine Learning and Data Science: Zero to Mastery",
+      "credential_id": "UC-55c5950c-60aa-4a17-9a80-99202e8bc287",
+      "credential_url": "http://ude.my/UC-55c5950c-60aa-4a17-9a80-99202e8bc287"
+  },
+  {
+      "id": 6,
+      "name": "Java (Basic)",
+      "credential_id": "102CC4A76B1F",
+      "credential_url": "https://www.hackerrank.com/certificates/102cc4a76b1f"
+  },
+  {
+      "id": 5,
+      "name": "Python (Basic)",
+      "credential_id": "937B29FD3E9E",
+      "credential_url": "https://www.hackerrank.com/certificates/937b29fd3e9e"
+  },
+  {
+      "id": 4,
+      "name": "C# Tutorial",
+      "credential_id": "1080-366333",
+      "credential_url": "https://www.sololearn.com/Certificate/1080-366333/pdf/"
+  },
+  {
+      "id": 3,
+      "name": "Completion of PHP and MySQL Training",
+      "credential_id": "1544963CBA",
+      "credential_url": "https://spoken-tutorial.org/software-training/test/participant/certificate/40195/1544963/"
+  },
+  {
+      "id": 2,
+      "name": "Completion of Java Training",
+      "credential_id": "1544963Y9O",
+      "credential_url": "https://spoken-tutorial.org/software-training/test/participant/certificate/35144/1544963/"
+  },
+  {
+      "id": 1,
+      "name": "Completion of Cpp Training",
+      "credential_id": "15449631Q4",
+      "credential_url": "https://spoken-tutorial.org/software-training/test/participant/certificate/22632/1544963/"
+  }
+]
