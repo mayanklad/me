@@ -35,7 +35,7 @@ class Header extends React.Component {
               <Profile alt="profile" src={ProfilePicture} />
             </a>
             <div>
-              <Name className="font-name">Mayank</Name>
+              <Name className="font-name">Mayank Lad</Name>
               <Subtitle>Computer Engineer</Subtitle>
             </div>
           </Box>
